@@ -1,0 +1,29 @@
+JDK version - 22
+Comments:
+    Single Line - //
+    Multiple Line - /*  */
+
+Data Types:
+    var number: Int = 10
+    var long: Long = 100L
+    var double: Double = 3.14
+    var float: Float = 3.14F
+    var boolean: Boolean = true
+    var string: String = "Hello"
+    var char: Char = 'A'
+
+Val vs Var:
+    Val - Read Only - final
+    Var - Mutable
+
+Const - Static final
+
+Join Strings:
+    String name and String age
+    "${name} ${age}"
+
+Boolean:
+    3 values - true, false, null
+
+Functions:
+    Kotlin - Unit == void - Java
